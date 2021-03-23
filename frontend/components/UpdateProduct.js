@@ -106,7 +106,6 @@ export default function UpdateProduct({ id }) {
             onChange={handleChange}
           />
         </label>
-
         <button type="submit">Update Product</button>
       </fieldset>
     </Form>

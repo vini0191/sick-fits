@@ -24,6 +24,7 @@ export default function DeleteProduct({ id, children }) {
       update,
     }
   );
+
   return (
     <button
       type="button"

@@ -104,7 +104,6 @@ export default function CreateProduct() {
             onChange={handleChange}
           />
         </label>
-
         <button type="submit">+ Add Product</button>
       </fieldset>
     </Form>
